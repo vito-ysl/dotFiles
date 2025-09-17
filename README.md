@@ -1,1 +1,1 @@
-<img src="./dotfiles.png"></img>
+<img src="./dotfile.png"></img>
